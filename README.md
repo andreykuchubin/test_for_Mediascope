@@ -1,1 +1,1 @@
-# test_for_Mediascope
+# Тестовое задание: Младший дата-аналитик в Mediascope
